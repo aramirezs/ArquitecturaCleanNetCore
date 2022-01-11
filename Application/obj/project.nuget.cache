@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "DGNDegxoDTZRnv0T+IUDl/OXgLvjIsnEpPzsx1C32G1SuSAmDR8YRRSjfw1nrYrsKMAf507sH5AkM+89ilFAbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jramirez\\Desktop\\SuizaLab\\Aplicaciones\\SuizaOnlineBackend\\SuizaOnlineBackend\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\jramirez.SUIZALABDC\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

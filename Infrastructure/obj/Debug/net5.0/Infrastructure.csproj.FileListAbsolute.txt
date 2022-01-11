@@ -1,0 +1,17 @@
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\bin\Debug\net5.0\Application.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\bin\Debug\net5.0\Application.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SuizaOnlineBackend\SuizaOnlineBackend\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
